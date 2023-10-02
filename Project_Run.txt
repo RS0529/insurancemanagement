@@ -1,0 +1,21 @@
+step 1: python install 
+
+step 2 : check cmd terminal python install or not
+
+=> python --version
+
+step 3 : vs code terminal / cmd project path
+=> python -m pip install -r requirements.txt
+
+=> py manage.py makemigrations
+=> py manage.py migrate
+
+=>  py manage.py runserver
+
+
+http://127.0.0.1:8000/adminlogin
+
+Admin Login Info
+
+Username : Admin2
+Password: 12345678
